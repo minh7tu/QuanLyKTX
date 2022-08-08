@@ -1,0 +1,518 @@
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.dll.config
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.pdb
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.exe
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.exe.config
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.rsp
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.exe
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.exe.config
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.rsp
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.AppContext.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Console.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Net.Http.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.exe
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.exe.config
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.rsp
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Antlr3.Runtime.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Newtonsoft.Json.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\System.Web.Optimization.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\WebGrease.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\System.Web.Optimization.xml
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Newtonsoft.Json.xml
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Antlr3.Runtime.pdb
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.AssemblyReference.cache
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.CopyComplete
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.dll
+C:\Users\Ba Tien Ton\Desktop\CK_XD&PTPM\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.pdb
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.dll.config
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.pdb
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.exe
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.exe.config
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.rsp
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.exe
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.exe.config
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.rsp
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Managed.Core.targets
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.AppContext.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Collections.Immutable.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Console.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Globalization.Calendars.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.Compression.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.FileSystem.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Net.Http.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Net.Sockets.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Reflection.Metadata.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.ValueTuple.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XmlDocument.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XPath.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.exe
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.exe.config
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.rsp
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\VBCSCompiler.exe
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\VBCSCompiler.exe.config
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Antlr3.Runtime.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\AspNet.ScriptManager.bootstrap.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\AspNet.ScriptManager.jQuery.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.ScriptManager.WebForms.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.Web.Infrastructure.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Newtonsoft.Json.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\System.Web.Optimization.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\WebGrease.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\System.Web.Optimization.xml
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Newtonsoft.Json.xml
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Antlr3.Runtime.pdb
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.AssemblyReference.cache
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.CoreCompileInputs.cache
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.CopyComplete
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.pdb
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.dll.config
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.pdb
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.exe
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.exe.config
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.rsp
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.exe
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.exe.config
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.rsp
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.AppContext.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Collections.Immutable.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Console.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Globalization.Calendars.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.Compression.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.FileSystem.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Net.Http.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Net.Sockets.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Reflection.Metadata.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.ValueTuple.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XPath.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.exe
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.exe.config
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.rsp
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\VBCSCompiler.exe
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\VBCSCompiler.exe.config
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Antlr3.Runtime.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\AspNet.ScriptManager.jQuery.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.Web.Infrastructure.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Newtonsoft.Json.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\System.Web.Optimization.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\WebGrease.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\System.Web.Optimization.xml
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Newtonsoft.Json.xml
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Antlr3.Runtime.pdb
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.AssemblyReference.cache
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.CoreCompileInputs.cache
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.CopyComplete
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.dll
+D:\Test1\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.pdb
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.dll.config
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.pdb
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.exe
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.exe.config
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.rsp
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.exe
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.exe.config
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.rsp
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Managed.Core.targets
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.AppContext.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Collections.Immutable.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Console.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Globalization.Calendars.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.Compression.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.FileSystem.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Net.Http.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Net.Sockets.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Reflection.Metadata.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.ValueTuple.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XmlDocument.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XPath.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.exe
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.exe.config
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.rsp
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\VBCSCompiler.exe
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\VBCSCompiler.exe.config
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Antlr3.Runtime.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\AspNet.ScriptManager.bootstrap.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\AspNet.ScriptManager.jQuery.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.ScriptManager.WebForms.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.Web.Infrastructure.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Newtonsoft.Json.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\System.Web.Optimization.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\WebGrease.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\System.Web.Optimization.xml
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Newtonsoft.Json.xml
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Antlr3.Runtime.pdb
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.AssemblyReference.cache
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.CoreCompileInputs.cache
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.CopyComplete
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.dll
+D:\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\hk2-21-22-th03104-xdptpm-01-nhom03-V1.0.0\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.pdb
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.dll.config
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.pdb
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.exe
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.exe.config
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.rsp
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.exe
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.exe.config
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.rsp
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.AppContext.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Collections.Immutable.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Console.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Globalization.Calendars.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.Compression.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.FileSystem.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Net.Http.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Net.Sockets.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Reflection.Metadata.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.ValueTuple.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XPath.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.exe
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.exe.config
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.rsp
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\VBCSCompiler.exe
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\VBCSCompiler.exe.config
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Antlr3.Runtime.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\AspNet.ScriptManager.bootstrap.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\AspNet.ScriptManager.jQuery.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.ScriptManager.WebForms.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.Web.Infrastructure.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Newtonsoft.Json.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\System.Web.Optimization.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\WebGrease.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\System.Web.Optimization.xml
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Newtonsoft.Json.xml
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Antlr3.Runtime.pdb
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.AssemblyReference.cache
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.CoreCompileInputs.cache
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.CopyComplete
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.dll
+D:\MinhTesst\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.pdb
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.dll.config
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.pdb
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.exe
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.exe.config
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.rsp
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.exe
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.exe.config
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.rsp
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.AppContext.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Collections.Immutable.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Console.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Globalization.Calendars.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.Compression.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.FileSystem.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Net.Http.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Net.Sockets.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Reflection.Metadata.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.ValueTuple.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XPath.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.exe
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.exe.config
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.rsp
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\VBCSCompiler.exe
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\VBCSCompiler.exe.config
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Antlr3.Runtime.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\AspNet.ScriptManager.jQuery.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.Web.Infrastructure.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Newtonsoft.Json.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\System.Web.Optimization.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\WebGrease.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\System.Web.Optimization.xml
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Newtonsoft.Json.xml
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Antlr3.Runtime.pdb
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.AssemblyReference.cache
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.CoreCompileInputs.cache
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.CopyComplete
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.dll
+D:\Test\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.pdb
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.dll.config
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\QuanLyKTXSinhVien.pdb
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.exe
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.exe.config
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csc.rsp
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.exe
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.exe.config
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\csi.rsp
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.AppContext.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Collections.Immutable.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Console.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Globalization.Calendars.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.Compression.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.FileSystem.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Net.Http.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Net.Sockets.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Reflection.Metadata.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.ValueTuple.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XPath.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.exe
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.exe.config
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\vbc.rsp
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\VBCSCompiler.exe
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\roslyn\VBCSCompiler.exe.config
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Antlr3.Runtime.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\AspNet.ScriptManager.jQuery.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.Web.Infrastructure.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Newtonsoft.Json.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\System.Web.Optimization.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\WebGrease.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\System.Web.Optimization.xml
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Newtonsoft.Json.xml
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Antlr3.Runtime.pdb
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.AssemblyReference.cache
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.CoreCompileInputs.cache
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.csproj.CopyComplete
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.dll
+D:\ABC\hk2-21-22-th03104-xdptpm-01-nhom03\QuanLyKTXSinhVien\QuanLyKTXSinhVien\obj\Debug\QuanLyKTXSinhVien.pdb

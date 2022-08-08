@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyKTXSinhVien", "QuanLyKTXSinhVien\QuanLyKTXSinhVien.csproj", "{87B610E2-61CA-4426-B202-D389838A2D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87B610E2-61CA-4426-B202-D389838A2D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B610E2-61CA-4426-B202-D389838A2D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B610E2-61CA-4426-B202-D389838A2D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B610E2-61CA-4426-B202-D389838A2D12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF3CDEBC-B925-4953-88FD-2A66C675AB52}
+	EndGlobalSection
+EndGlobal

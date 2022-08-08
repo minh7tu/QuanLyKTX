@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="General.master.cs" Inherits="QuanLyKTXSinhVien.Master.General" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <asp:ContentPlaceHolder ID="TieuDe" runat="server">
+        
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="../Style/Style.css"/> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="../Images/Logo.ico" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="header">
+            <img src="../Images/Logo-01.jpg" alt="Logo" title="Lg KTX" />
+            <span>QUẢN LÝ KÍ TÚC XÁ</span>
+        </div>
+        <div>
+            <!-- Tạo menu chính -->
+            <div id="menu">
+                <ul>
+                    <li><a href="../Feature/TrangChu.aspx">Trang chủ</a></li>
+                    <li><a href="../Feature/PhongTrong.aspx">Phòng ở</a></li>
+                    <li>
+                        <a href="#">Quản lý</a>
+                        <ul class="sub-menu"><!-- Tạo menu con -->
+                            <li><a href="../Feature/HienThiDN.aspx">Dãy nhà</a></li>
+                            <li><a href="../Feature/HienThiPhong.aspx">Phòng</a></li>
+                            <li><a href="../Feature/QuanLySinhVien.aspx">Sinh viên</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="../Feature/TaoBaoCaoPhong.aspx">Lập báo cáo</a></li>
+                    <li><a href="#">Liên hệ</a></li>
+                </ul>
+            </div>
+
+            <asp:ContentPlaceHolder ID="NoiDung" runat="server">
+
+            </asp:ContentPlaceHolder>
+
+            <footer class="footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="footer-col">
+                            <h4>Đội ngũ phát triển - Nhóm 03</h4>
+                            <ul>
+                                <li><a href="#">Nguyễn Thị Thu An</a></li>
+                                <li><a href="#">Đoàn Đức Hải</a></li>
+                                <li><a href="#">Nguyễn Đắc Hùng</a></li>
+                                <li><a href="#">Bùi Chính Ngọc</a></li>
+                                <li><a href="#">Nguyễn Đình Thuyết</a></li>
+                            </ul>
+                        </div>
+                        <div class="footer-col">
+                            <h4>Thông tin liên hệ</h4>
+                            <div class="sosial-links">
+                                <a href="#" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+                            </div>
+                        </div>
+                    </div>                    
+                </div>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>
